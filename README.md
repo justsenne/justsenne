@@ -1,4 +1,4 @@
-# Welkom bij mijn profiel!
+# Welkom op mijn profiel!
 Ik ben senne, 24 jaar oud en ik spendeer een groot gedeelte van mijn tijd op deze bol aan het coderen van software
 en het andere gedeelte aan gamen [![Steam](https://img.shields.io/badge/Steam-151b23.svg?style=for-the-badge&logo=steam&logoColor=%2361DAFB)](https://steamcommunity.com/id/SenneChocomel/) , muziek maken (gitaar & piano), lezen en chillen met vrienden.
 
