@@ -1,5 +1,5 @@
 # Welkom op mijn profiel!
-Ik ben senne, 24 jaar oud en ik spendeer een groot gedeelte van mijn tijd op deze bol aan het coderen van software
+Ik ben senne, 26 jaar oud en ik spendeer een groot gedeelte van mijn tijd op deze bol aan het coderen van software
 en het andere gedeelte aan gamen, muziek maken (gitaar & piano), lezen en chillen met vrienden.
 
 ## Talen en Tools
